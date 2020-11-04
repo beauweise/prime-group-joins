@@ -48,9 +48,10 @@ Lisa	5
 Charles	1
 
 -- How many customers do we have?
-
+4
 
 -- How many products do we carry?
-
+7
 
 -- What is the total available on-hand quantity of diet pepsi?
+92
