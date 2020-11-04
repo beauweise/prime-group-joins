@@ -43,7 +43,9 @@ Delta
 Gamma
 
 -- Get the number of orders for each customer. NOTE: It is OK if those without orders are not included in results.
-
+Lucy	3
+Lisa	5
+Charles	1
 
 -- How many customers do we have?
 
